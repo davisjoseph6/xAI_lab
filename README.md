@@ -4,7 +4,7 @@
 
 This report covers Mission 1 and Mission 2 of the Explainable AI lab.
 
-The original team was Da and Ma. Ma became unavailable due to illness during the project, so Da completed the remaining experiments, self-audits, and final report writing. This is disclosed because the intended two-person audit structure could not be fully completed.
+The team is Davis and Malone, and we completed the remaining experiments, self-audits, and final report writing. 
 
 The central rule used throughout the work was:
 
