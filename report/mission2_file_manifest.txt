@@ -1,0 +1,17 @@
+outputs/mission2/dog_background_interventions.csv
+outputs/mission2/model_input_rgb.npy
+outputs/mission2/original_gradcam.png
+outputs/mission2/original_gradcam_spatial.npy
+outputs/mission2/original_integrated_gradients_black.png
+outputs/mission2/original_integrated_gradients_black_spatial.npy
+outputs/mission2/original_integrated_gradients_blurred.png
+outputs/mission2/original_integrated_gradients_blurred_spatial.npy
+outputs/mission2/original_raw_attributions.pt
+outputs/mission2/original_saliency.png
+outputs/mission2/original_saliency_spatial.npy
+outputs/mission2/randomisation_all_seed_results.csv
+outputs/mission2/randomisation_curves.png
+outputs/mission2/randomisation_methodology.json
+outputs/mission2/randomisation_summary.csv
+outputs/mission2/saliency_metadata.json
+outputs/mission2/shuffled_map_null_correlations.json
