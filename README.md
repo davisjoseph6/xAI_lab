@@ -543,4 +543,4 @@ Environment file:
 
 - `environment.txt`
 
-The final submission should include the report, source code, environment file, selected outputs, and figures needed to support the claims.
+The final submission includes the report, source code, environment file, selected outputs, and figures needed to support the claims.
