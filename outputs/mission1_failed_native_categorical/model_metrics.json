@@ -1,0 +1,51 @@
+{
+  "balanced_accuracy": 0.7130952380952381,
+  "roc_auc_bad_class": 0.7994047619047618,
+  "confusion_matrix_rows_actual_columns_predicted": [
+    [
+      125,
+      15
+    ],
+    [
+      28,
+      32
+    ]
+  ],
+  "classification_report": {
+    "good": {
+      "precision": 0.8169934640522876,
+      "recall": 0.8928571428571429,
+      "f1-score": 0.8532423208191127,
+      "support": 140.0
+    },
+    "bad": {
+      "precision": 0.6808510638297872,
+      "recall": 0.5333333333333333,
+      "f1-score": 0.5981308411214953,
+      "support": 60.0
+    },
+    "accuracy": 0.785,
+    "macro avg": {
+      "precision": 0.7489222639410373,
+      "recall": 0.7130952380952381,
+      "f1-score": 0.7256865809703039,
+      "support": 200.0
+    },
+    "weighted avg": {
+      "precision": 0.7761507439855374,
+      "recall": 0.785,
+      "f1-score": 0.7767088769098274,
+      "support": 200.0
+    }
+  },
+  "model_classes": [
+    0,
+    1
+  ],
+  "bad_class_probability_column": 1,
+  "selected_test_position": 37,
+  "selected_original_row_id": 11,
+  "selected_true_class": 1,
+  "selected_predicted_class": 1,
+  "selected_bad_probability": 0.9179913997650146
+}

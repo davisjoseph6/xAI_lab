@@ -60,4 +60,5 @@ tqdm==4.68.3
 triton==3.7.1
 typing_extensions==4.15.0
 ucimlrepo==0.0.7
+wheel==0.47.0
 xgboost==3.3.0

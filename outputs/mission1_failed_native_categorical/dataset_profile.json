@@ -1,0 +1,148 @@
+{
+  "number_of_rows": 1000,
+  "number_of_features": 20,
+  "bad_class_count": 300,
+  "good_class_count": 700,
+  "duplicate_feature_rows": 0,
+  "missing_values_by_feature": {
+    "checking_status": 0,
+    "duration_months": 0,
+    "credit_history": 0,
+    "purpose": 0,
+    "credit_amount": 0,
+    "savings_status": 0,
+    "employment_since": 0,
+    "installment_rate": 0,
+    "personal_status_sex": 0,
+    "other_debtors": 0,
+    "residence_since": 0,
+    "property": 0,
+    "age_years": 0,
+    "other_installment_plans": 0,
+    "housing": 0,
+    "existing_credits": 0,
+    "job": 0,
+    "dependants": 0,
+    "telephone": 0,
+    "foreign_worker": 0
+  },
+  "numeric_ranges": {
+    "duration_months": {
+      "minimum": 4.0,
+      "maximum": 72.0,
+      "median": 18.0
+    },
+    "credit_amount": {
+      "minimum": 250.0,
+      "maximum": 18424.0,
+      "median": 2319.5
+    },
+    "installment_rate": {
+      "minimum": 1.0,
+      "maximum": 4.0,
+      "median": 3.0
+    },
+    "residence_since": {
+      "minimum": 1.0,
+      "maximum": 4.0,
+      "median": 3.0
+    },
+    "age_years": {
+      "minimum": 19.0,
+      "maximum": 75.0,
+      "median": 33.0
+    },
+    "existing_credits": {
+      "minimum": 1.0,
+      "maximum": 4.0,
+      "median": 1.0
+    },
+    "dependants": {
+      "minimum": 1.0,
+      "maximum": 2.0,
+      "median": 1.0
+    }
+  },
+  "categorical_values": {
+    "checking_status": [
+      "A11",
+      "A12",
+      "A13",
+      "A14"
+    ],
+    "credit_history": [
+      "A30",
+      "A31",
+      "A32",
+      "A33",
+      "A34"
+    ],
+    "purpose": [
+      "A40",
+      "A41",
+      "A410",
+      "A42",
+      "A43",
+      "A44",
+      "A45",
+      "A46",
+      "A48",
+      "A49"
+    ],
+    "savings_status": [
+      "A61",
+      "A62",
+      "A63",
+      "A64",
+      "A65"
+    ],
+    "employment_since": [
+      "A71",
+      "A72",
+      "A73",
+      "A74",
+      "A75"
+    ],
+    "personal_status_sex": [
+      "A91",
+      "A92",
+      "A93",
+      "A94"
+    ],
+    "other_debtors": [
+      "A101",
+      "A102",
+      "A103"
+    ],
+    "property": [
+      "A121",
+      "A122",
+      "A123",
+      "A124"
+    ],
+    "other_installment_plans": [
+      "A141",
+      "A142",
+      "A143"
+    ],
+    "housing": [
+      "A151",
+      "A152",
+      "A153"
+    ],
+    "job": [
+      "A171",
+      "A172",
+      "A173",
+      "A174"
+    ],
+    "telephone": [
+      "A191",
+      "A192"
+    ],
+    "foreign_worker": [
+      "A201",
+      "A202"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "original_row_id": 11,
+  "features": {
+    "checking_status": "A11",
+    "duration_months": 48,
+    "credit_history": "A32",
+    "purpose": "A49",
+    "credit_amount": 4308,
+    "savings_status": "A61",
+    "employment_since": "A72",
+    "installment_rate": 3,
+    "personal_status_sex": "A92",
+    "other_debtors": "A101",
+    "residence_since": 4,
+    "property": "A122",
+    "age_years": 24,
+    "other_installment_plans": "A143",
+    "housing": "A151",
+    "existing_credits": 1,
+    "job": "A173",
+    "dependants": 1,
+    "telephone": "A191",
+    "foreign_worker": "A201"
+  },
+  "true_class": 1,
+  "predicted_class": 1,
+  "bad_probability": 0.9179913997650146
+}
