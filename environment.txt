@@ -52,6 +52,7 @@ shap==0.52.0
 six==1.17.0
 slicer==0.0.8
 sympy==1.14.0
+tabulate==0.10.0
 threadpoolctl==3.6.0
 tifffile==2026.6.1
 torch==2.12.1

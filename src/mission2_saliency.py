@@ -40,7 +40,7 @@ IMAGE_PATH = PROJECT_ROOT / "images" / "husky.jpg"
 OUTPUT_DIRECTORY = PROJECT_ROOT / "outputs" / "mission2"
 
 RANDOM_SEED = 42
-INTEGRATED_GRADIENT_STEPS = 64
+INTEGRATED_GRADIENT_STEPS = 128
 DEVICE = torch.device(
     "cuda" if torch.cuda.is_available() else "cpu"
 )

@@ -1,1 +1,92 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+.ipynb_checkpoints/
+
+# Virtual environments
 .venv/
+venv/
+env/
+ENV/
+
+# Environment / local config
+.env
+.env.*
+!.env.example
+environment.txt
+pip-freeze.txt
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Large/generated experiment outputs
+outputs/
+backups/
+*.tar.gz
+*.zip
+
+# Model artefacts
+*.joblib
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.onnx
+
+# NumPy/generated arrays
+*.npy
+*.npz
+
+# Generated plots and figures
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.pdf
+
+# But keep report figures if you explicitly place them here
+!report/figures/
+!report/figures/**/*.png
+!report/figures/**/*.jpg
+!report/figures/**/*.jpeg
+!report/figures/**/*.pdf
+
+# Local image inputs and masks
+images/
+!images/.gitkeep
+
+# Local data
+data/
+!data/.gitkeep
+
+# Jupyter checkpoints / temporary notebooks
+notebooks/.ipynb_checkpoints/
+
+# Logs
+*.log
+logs/
+
+# Coverage / build artefacts
+htmlcov/
+.coverage
+coverage.xml
+dist/
+build/
+*.egg-info/
+
+# CUDA / PyTorch local cache references, if accidentally created inside repo
+torch_cache/
+hub/
+checkpoints/
